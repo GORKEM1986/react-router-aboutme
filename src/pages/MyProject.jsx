@@ -22,7 +22,7 @@ const MyProject = () => {
         </A>
       </Button>
       <Button>
-        <A href="https://react-language-cards-fg.netlify.app/" target="_blank">
+        <A href="https://react-golf-series.netlify.app/" target="_blank">
           Language Cards
         </A>
       </Button>
